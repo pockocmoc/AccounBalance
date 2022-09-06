@@ -6,7 +6,7 @@ package mypack;
      double bal;
 
 
-    Balance(String n, double bal) {
+    Balance(String n, double b) {
         name = n;
         bal = b;
     }
